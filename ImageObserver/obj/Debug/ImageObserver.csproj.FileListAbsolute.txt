@@ -1,0 +1,14 @@
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\bin\Debug\ImageObserver.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\bin\Debug\ImageObserver.exe
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\bin\Debug\ImageObserver.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\MainWindow.g.cs
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\App.g.cs
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver_MarkupCompile.cache
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver_MarkupCompile.lref
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\MainWindow.baml
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver.g.resources
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver.Properties.Resources.resources
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver.csproj.GenerateResource.Cache
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver.exe
+c:\users\павлове\documents\visual studio 2017\Projects\ImageObserver\ImageObserver\obj\Debug\ImageObserver.pdb
